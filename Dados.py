@@ -76,7 +76,7 @@ class Boton(CheckBox):
         self.color = (255, 0, 0, 3)
         self.dice = 0
 
-
+# Fabian es mi bossu
 class LoginScreen(BoxLayout):
 
     def __init__(self, **kwargs):
