@@ -161,7 +161,7 @@ class LoginScreen(BoxLayout):
         if active:
             self.type_dice = int(obj.id)
 
-    # LANZAMIENTO DE LOS DADOS
+    # LANZAMIENTO DE LOS DADOS del imperio
 
     def lanzar_dados(self, obj):
         try:
